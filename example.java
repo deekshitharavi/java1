@@ -12,8 +12,7 @@ class example
 
   public static void main(String a[])
   {
-  compute c= new compute();
-   c.disp();
+   new compute().disp();
     
    }
    
